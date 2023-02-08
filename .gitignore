@@ -1,2 +1,2 @@
-/asteroid
-!/asteroid/kuiper-belt.txt
+asteroid/*
+!asteroid/kuiper-belt.txt
